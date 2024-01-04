@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/McD_App/static/css/main.a800abcc.css",
+    "main.js": "/McD_App/static/js/main.683fc926.js",
+    "static/js/787.3ebc558e.chunk.js": "/McD_App/static/js/787.3ebc558e.chunk.js",
+    "static/media/Burger2.jpg": "/McD_App/static/media/Burger2.078b4dab5766b7d94ccd.jpg",
+    "static/media/Burger1.jpg": "/McD_App/static/media/Burger1.adae440062058a48d987.jpg",
+    "static/media/Burger4.jpg": "/McD_App/static/media/Burger4.6806090fab2895ffe330.jpg",
+    "static/media/Burger3.jpg": "/McD_App/static/media/Burger3.ff0634f133dfa578ef30.jpg",
+    "index.html": "/McD_App/index.html",
+    "main.a800abcc.css.map": "/McD_App/static/css/main.a800abcc.css.map",
+    "main.683fc926.js.map": "/McD_App/static/js/main.683fc926.js.map",
+    "787.3ebc558e.chunk.js.map": "/McD_App/static/js/787.3ebc558e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a800abcc.css",
+    "static/js/main.683fc926.js"
+  ]
+}
