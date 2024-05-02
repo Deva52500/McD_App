@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/McD_App/static/css/main.1b4d6cad.css",
+    "main.js": "/McD_App/static/js/main.3d8899d7.js",
+    "static/js/787.3ebc558e.chunk.js": "/McD_App/static/js/787.3ebc558e.chunk.js",
+    "static/media/Burger2.jpg": "/McD_App/static/media/Burger2.078b4dab5766b7d94ccd.jpg",
+    "static/media/Burger1.jpg": "/McD_App/static/media/Burger1.adae440062058a48d987.jpg",
+    "static/media/Burger4.jpg": "/McD_App/static/media/Burger4.6806090fab2895ffe330.jpg",
+    "static/media/Burger3.jpg": "/McD_App/static/media/Burger3.ff0634f133dfa578ef30.jpg",
+    "static/media/fanta.jpg": "/McD_App/static/media/fanta.02423ff31b83e901f53f.jpg",
+    "static/media/coke.jpg": "/McD_App/static/media/coke.72d79f8f4e3105fea2f9.jpg",
+    "static/media/chocolate.jpg": "/McD_App/static/media/chocolate.27e2d96db08bcc62d06b.jpg",
+    "static/media/sprit.jpg": "/McD_App/static/media/sprit.5c17a6f03fbbb03136da.jpg",
+    "static/media/vanila.jpg": "/McD_App/static/media/vanila.9be8fe018183f64b6dd3.jpg",
+    "index.html": "/McD_App/index.html",
+    "main.1b4d6cad.css.map": "/McD_App/static/css/main.1b4d6cad.css.map",
+    "main.3d8899d7.js.map": "/McD_App/static/js/main.3d8899d7.js.map",
+    "787.3ebc558e.chunk.js.map": "/McD_App/static/js/787.3ebc558e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4d6cad.css",
+    "static/js/main.3d8899d7.js"
+  ]
+}
